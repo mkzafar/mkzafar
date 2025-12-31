@@ -1,7 +1,7 @@
 
 
 
-- 👋 Hi, im Muhammad Zafar
+- 👋 Hi, i'm Muhammad Zafar
 - 🎓 Finishing up my undergraduate degree in Computer Engineering from York University
-- 💻 I'm currently enhacning my skills in Data Analytics and NLP/LLM's
+- 💻 I’m actively developing my skills in Data Analytics and NLP with Large Language Models
 
